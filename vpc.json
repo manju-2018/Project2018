@@ -1,0 +1,4 @@
+{
+	"AWSTemplateFormatVersion": "2010-09-09",
+	"Description": "VPC and Subnet creation.txt - This is the inputs template used to create VPC,Subnet",
+  }
